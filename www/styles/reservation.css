@@ -1,0 +1,598 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.reservation-AUK {
+  width: 100%;
+  height: 235.9rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.reservation-AUK .footer-6My {
+  box-sizing: border-box;
+  padding: 17.9rem 11.9rem 11.9rem 12.1rem;
+  width: 192rem;
+  height: 58rem;
+  position: absolute;
+  left: 0;
+  top: 177.9rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #1a1a3c;
+}
+.reservation-AUK .footer-6My .auto-group-1j4j-mj1 {
+  margin-bottom: 2.4rem;
+  width: 100%;
+  height: 19.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.reservation-AUK .footer-6My .auto-group-1j4j-mj1 .auto-group-nrqf-7H5 {
+  box-sizing: border-box;
+  padding-right: 7.1rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.reservation-AUK .footer-6My .auto-group-1j4j-mj1 .auto-group-nrqf-7H5 .blockinfo1-eno {
+  margin-right: 7.2rem;
+  width: 51.2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.reservation-AUK .footer-6My .auto-group-1j4j-mj1 .auto-group-nrqf-7H5 .blockinfo1-eno .item--C3d {
+  margin: 0rem 0rem 0.4rem 1.3rem;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  letter-spacing: 0.03rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.reservation-AUK .footer-6My .auto-group-1j4j-mj1 .auto-group-nrqf-7H5 .blockinfo1-eno .line-2-eRR {
+  margin-bottom: 2.9rem;
+  width: 100%;
+  height: 0.3rem;
+  background-color: #abaacc;
+  flex-shrink: 0;
+}
+.reservation-AUK .footer-6My .auto-group-1j4j-mj1 .auto-group-nrqf-7H5 .blockinfo1-eno .item--yyV {
+  margin-right: 9.1rem;
+  row-gap: 1.4rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.reservation-AUK .footer-6My .auto-group-1j4j-mj1 .auto-group-nrqf-7H5 .blockinfo1-eno .item--yyV .text1-huV {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  letter-spacing: 0.024rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.reservation-AUK .footer-6My .auto-group-1j4j-mj1 .auto-group-nrqf-7H5 .blockinfo1-eno .item--yyV .text2-2wm {
+  margin-left: 0.1rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  letter-spacing: 0.024rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.reservation-AUK .footer-6My .auto-group-1j4j-mj1 .auto-group-nrqf-7H5 .blockinfo1-eno .item--yyV .text3-wYw {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  letter-spacing: 0.024rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.reservation-AUK .footer-6My .auto-group-1j4j-mj1 .auto-group-nrqf-7H5 .blockinfo2-59M {
+  width: 51.2rem;
+  flex-shrink: 0;
+}
+.reservation-AUK .footer-6My .auto-group-1j4j-mj1 .auto-group-nrqf-7H5 .blockinfo2-59M .item--psd {
+  margin: 0rem 0rem 0.4rem 13.6rem;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  letter-spacing: 0.03rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reservation-AUK .footer-6My .auto-group-1j4j-mj1 .auto-group-nrqf-7H5 .blockinfo2-59M .line-2-ii7 {
+  margin-bottom: 2.3rem;
+  width: 100%;
+  height: 0.3rem;
+  background-color: #abaacc;
+}
+.reservation-AUK .footer-6My .auto-group-1j4j-mj1 .auto-group-nrqf-7H5 .blockinfo2-59M .item--g99 {
+  row-gap: 1.4rem;
+  display: flex;
+  flex-direction: column;
+}
+.reservation-AUK .footer-6My .auto-group-1j4j-mj1 .auto-group-nrqf-7H5 .blockinfo2-59M .item--g99 .text1-1hD {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  letter-spacing: 0.024rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.reservation-AUK .footer-6My .auto-group-1j4j-mj1 .auto-group-nrqf-7H5 .blockinfo2-59M .item--g99 .text2-9Hd {
+  margin-left: 0.1rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  letter-spacing: 0.024rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.reservation-AUK .footer-6My .auto-group-1j4j-mj1 .auto-group-nrqf-7H5 .blockinfo2-59M .item--g99 .text3-Uao {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  letter-spacing: 0.024rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.reservation-AUK .footer-6My .auto-group-1j4j-mj1 .blockinfo3-cBD {
+  width: 51.3rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.reservation-AUK .footer-6My .auto-group-1j4j-mj1 .blockinfo3-cBD .item--Zs9 {
+  margin: 0rem 0rem 0.4rem 8.7rem;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.2175;
+  letter-spacing: 0.03rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reservation-AUK .footer-6My .auto-group-1j4j-mj1 .blockinfo3-cBD .line-2-sN3 {
+  margin: 0rem 0rem 3.1rem 0.1rem;
+  width: 51.2rem;
+  height: 0.3rem;
+  background-color: #abaacc;
+}
+.reservation-AUK .footer-6My .auto-group-1j4j-mj1 .blockinfo3-cBD .auto-group-p4rx-Cv7 {
+  margin-right: 16.1rem;
+  width: calc(100% - 16.1rem);
+  height: 12.2rem;
+  display: flex;
+  align-items: center;
+}
+.reservation-AUK .footer-6My .auto-group-1j4j-mj1 .blockinfo3-cBD .auto-group-p4rx-Cv7 .item--kAw {
+  margin-right: 2rem;
+  height: 100%;
+  row-gap: 1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.reservation-AUK .footer-6My .auto-group-1j4j-mj1 .blockinfo3-cBD .auto-group-p4rx-Cv7 .item--kAw .mask-group-UMq {
+  width: 3.4rem;
+  height: 3.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.reservation-AUK .footer-6My .auto-group-1j4j-mj1 .blockinfo3-cBD .auto-group-p4rx-Cv7 .item--kAw .mask-group-pAo {
+  width: 3.4rem;
+  height: 3.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.reservation-AUK .footer-6My .auto-group-1j4j-mj1 .blockinfo3-cBD .auto-group-p4rx-Cv7 .item--kAw .mask-group-MwR {
+  width: 3.4rem;
+  height: 3.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.reservation-AUK .footer-6My .auto-group-1j4j-mj1 .blockinfo3-cBD .auto-group-p4rx-Cv7 .item--6u1 {
+  margin: 0.1rem 0rem 0.3rem 0rem;
+  height: calc(100% - 0.4rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.reservation-AUK .footer-6My .auto-group-1j4j-mj1 .blockinfo3-cBD .auto-group-p4rx-Cv7 .item--6u1 .instagram-1m5 {
+  margin-bottom: 1.3rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  letter-spacing: 0.024rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.reservation-AUK .footer-6My .auto-group-1j4j-mj1 .blockinfo3-cBD .auto-group-p4rx-Cv7 .item--6u1 .telegram-YW7 {
+  margin: 0rem 0rem 1.5rem 0.1rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  letter-spacing: 0.024rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.reservation-AUK .footer-6My .auto-group-1j4j-mj1 .blockinfo3-cBD .auto-group-p4rx-Cv7 .item--6u1 .mail-faj {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2175;
+  letter-spacing: 0.024rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.reservation-AUK .footer-6My .item--nfM {
+  margin-bottom: 3.9rem;
+  width: 100%;
+  height: 0.3rem;
+  background-color: #abaacc;
+  flex-shrink: 0;
+}
+.reservation-AUK .footer-6My .auto-group-b4k3-h1d {
+  margin: 0rem 0.5rem 0rem 0.1rem;
+  width: calc(100% - 0.6rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.reservation-AUK .footer-6My .auto-group-b4k3-h1d .item-2023--RCX {
+  margin-right: 60.8rem;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.reservation-AUK .footer-6My .auto-group-b4k3-h1d .item--75M {
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.015rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.reservation-AUK .automobile-12914911920-1-G6f {
+  width: 192rem;
+  height: 144rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.reservation-AUK .item--Ph5 {
+  box-sizing: border-box;
+  padding: 1.191rem 27.4rem 14.795rem 42.2rem;
+  width: 177.2rem;
+  height: 60.3rem;
+  position: absolute;
+  left: 7.4rem;
+  top: 130.3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(184, 203, 221, 0.6600000262);
+  border-radius: 11.4rem;
+}
+.reservation-AUK .item--Ph5 .auto-group-mqgw-SfM {
+  margin-bottom: 2.9712rem;
+  width: 100%;
+  height: 11.815rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.reservation-AUK .item--Ph5 .auto-group-mqgw-SfM .item--njD {
+  width: 50.5rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 24rem;
+  top: 7.115rem;
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.1725;
+  color: #182c39;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reservation-AUK .item--Ph5 .auto-group-mqgw-SfM .item--F71 {
+  width: 107.6rem;
+  height: 7.9557rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.reservation-AUK .item--Ph5 .auto-group-mqgw-SfM .item--F71 .item--LeF {
+  width: 107.4rem;
+  height: 7.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 6.4rem;
+  font-weight: 800;
+  line-height: 1.1725;
+  color: #182c39;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reservation-AUK .item--Ph5 .auto-group-mqgw-SfM .item--F71 .item--1Eb {
+  width: 107.4rem;
+  height: 7.6rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 0.1779rem;
+  font-size: 6.4rem;
+  font-weight: 800;
+  line-height: 1.1725;
+  color: #182c39;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reservation-AUK .item--Ph5 .auto-group-mqgw-SfM .item--F71 .item--fpw {
+  width: 107.4rem;
+  height: 7.6rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0.3557rem;
+  font-size: 6.4rem;
+  font-weight: 800;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reservation-AUK .item--Ph5 .item--Keb {
+  margin: 0rem 34.7rem 3.824rem 19.8rem;
+  box-sizing: border-box;
+  padding: 1.221rem 3.717rem 1.805rem 3.717rem;
+  width: calc(100% - 54.5rem);
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.1725;
+  color: #182c39;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem #182c39;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.reservation-AUK .item--Ph5 .email-wvs {
+  margin: 0rem 34.7rem 3.824rem 19.8rem;
+  box-sizing: border-box;
+  padding: 1.221rem 3.717rem 1.805rem 3.717rem;
+  width: calc(100% - 54.5rem);
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.1725;
+  color: #182c39;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem #182c39;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.reservation-AUK .item--Ph5 .item--z8T {
+  margin: 0rem 34.7rem 1.156rem 19.8rem;
+  box-sizing: border-box;
+  padding: 1.221rem 3.717rem 1.805rem 3.717rem;
+  width: calc(100% - 54.5rem);
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.1725;
+  color: #182c39;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.2rem #182c39;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.reservation-AUK .item--Ph5 .item--RjZ {
+  margin: 0rem 47.5rem 0rem 30.1rem;
+  width: calc(100% - 77.6rem);
+  height: 4.4469rem;
+  cursor: pointer;
+  position: relative;
+  flex-shrink: 0;
+}
+.reservation-AUK .item--Ph5 .item--RjZ .item--XXh {
+  width: 21.2rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 6.3rem;
+  top: 0.9783rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  color: #182c39;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reservation-AUK .item--Ph5 .item--RjZ .rectangle-31-pWo {
+  width: 30rem;
+  height: 4.4469rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.2rem #182c39;
+  box-sizing: border-box;
+  border-radius: 0.8rem;
+}
+.reservation-AUK .header-vJw {
+  width: 192rem;
+  height: 13.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: rgba(0, 39, 44, 0.400000006);
+}
+.reservation-AUK .header-vJw .mb-starnweb-1-TZm {
+  width: 8.8rem;
+  height: 8.8rem;
+  position: absolute;
+  left: 12rem;
+  top: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reservation-AUK .header-vJw .item--zJo {
+  box-sizing: border-box;
+  padding: 1.3rem 2.8rem;
+  width: 19rem;
+  height: 5.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 112.5rem;
+  top: 3.8rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.02rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reservation-AUK .header-vJw .item--Eyq {
+  box-sizing: border-box;
+  padding: 1.3rem 2.8rem;
+  width: 19rem;
+  height: 5.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 127.5rem;
+  top: 3.8rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.02rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reservation-AUK .header-vJw .item--6FM {
+  box-sizing: border-box;
+  padding: 1.3rem 2.8rem;
+  width: 19rem;
+  height: 5.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 142.5rem;
+  top: 3.8rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.02rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.reservation-AUK .header-vJw .item--Zej {
+  width: 19rem;
+  height: 5.1rem;
+  cursor: pointer;
+  position: absolute;
+  left: 93rem;
+  top: 3.8rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2175;
+  letter-spacing: 0.02rem;
+  color: #ffffff;
+  font-family: Montserrat, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.reservation-AUK .header-vJw .item--paf {
+  width: 192rem;
+  height: 13.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.reservation-AUK .header-vJw .navigator-pDH {
+  width: 6.24rem;
+  height: 3.9rem;
+  cursor: pointer;
+  position: absolute;
+  left: 173.8rem;
+  top: 4.8rem;
+}
+.reservation-AUK .header-vJw .navigator-pDH .rectangle-7-9FZ {
+  margin-bottom: 0.82rem;
+  width: 100%;
+  height: 0.78rem;
+  background-color: #fffdfd;
+  border-radius: 1rem;
+}
+.reservation-AUK .header-vJw .navigator-pDH .rectangle-8-sxF {
+  margin-bottom: 0.82rem;
+  width: 4.5rem;
+  height: 0.7rem;
+  background-color: #fffdfd;
+  border-radius: 1rem;
+}
+.reservation-AUK .header-vJw .navigator-pDH .rectangle-9-DWK {
+  width: 100%;
+  height: 0.78rem;
+  background-color: #fffdfd;
+  border-radius: 1rem;
+}

@@ -1,0 +1,31 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 77.9rem;
+}.button-variant2-ChR {
+  width: 100%;
+  height: 32.9rem;
+  overflow: hidden;
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/button-variant2-bg.png');
+}
+.button-variant2-ChR .rectangle-3-L2w {
+  width: 100%;
+  height: 32.9rem;
+  border-radius: 3.7rem;
+}

@@ -1,0 +1,61 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 28.9rem;
+}.component-68-V9m {
+  box-sizing: border-box;
+  padding: 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.component-68-V9m .property-1frame-27-qUX {
+  margin-right: 6.1rem;
+  box-sizing: border-box;
+  padding-top: 3.4rem;
+  width: 9.4rem;
+  height: 3.2rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  font-size: 4rem;
+  font-weight: 900;
+  line-height: 0.625;
+  letter-spacing: 0.04rem;
+  color: #ffffff;
+  font-family: Playfair Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-68-V9m .property-1frame-28-iYK {
+  width: 9.4rem;
+  height: 3.2rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.component-68-V9m .property-1frame-28-iYK .item--ruR {
+  max-width: 8rem;
+  font-size: 4rem;
+  font-weight: 900;
+  line-height: 0.625;
+  letter-spacing: 0.04rem;
+  color: #ffffff;
+  font-family: Playfair Display, 'Source Sans Pro';
+}
